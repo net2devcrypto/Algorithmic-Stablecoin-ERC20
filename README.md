@@ -19,7 +19,7 @@ Click for video:
 
 <a href="https://youtu.be/QM4bXGd0CcA" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
-Part2 Folder Repo:
+Part2 Folder Contents:
 
 ```shell
 N2D-USDT-Fake-ERC20-Token-SmartContract.sol
