@@ -1,7 +1,7 @@
 # Algorithmic-Stablecoin-ERC20
 🤑The Official ERC20 Algoritmic Stablecoin Project Tutorial Repo - Complete repo on how to deploy your own algorithmic stablecoin and back it with a hybrid collateral reserve between other stablecoins or cryptocurrencies.
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/n2usd-logo.png" width="200" height="90">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/n2usd-logo.png" width="200" height="80">
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
