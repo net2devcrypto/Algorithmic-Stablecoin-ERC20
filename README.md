@@ -27,3 +27,17 @@ N2D-WETH-Fake-ERC20-Token-SmartContract.sol
 N2USD-Reserves-CollateralVault-SmartContract.sol
 ```
 
+<h3>Part 3 Repo</h3>
+
+Click for video:
+
+<a href="https://youtu.be/wwWiUiuhc2A" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+Part3 Folder Contents:
+
+Make sure you update the AggregatorV3Interface Contract to return uint256 instead of int256. Please refer to tutorial video section : 16:00
+
+```shell
+n2USD-Price-Oracle-Demo-SmartContract.sol
+```
+
