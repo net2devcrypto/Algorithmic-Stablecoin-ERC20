@@ -41,3 +41,15 @@ Make sure you update the AggregatorV3Interface Contract to return uint256 instea
 n2USD-Price-Oracle-Demo-SmartContract.sol
 ```
 
+<h3>Part 4 Repo</h3>
+
+Click for video:
+
+<a href="https://youtu.be/vVLyiamdvII" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+Part4 Folder Contents:
+
+```shell
+N2USD-Algorithmic-Stablecoin-Governance-Contract-Option1.sol
+N2USD-ERC20-Stablecoin-Smart-Contract.sol
+```
