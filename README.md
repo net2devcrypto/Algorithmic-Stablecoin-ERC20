@@ -53,3 +53,16 @@ Part4 Folder Contents:
 N2USD-Algorithmic-Stablecoin-Governance-Contract-Option1.sol
 N2USD-ERC20-Stablecoin-Smart-Contract.sol
 ```
+
+<h3>Part 5 Repo</h3>
+
+Click for video:
+
+<a href="https://www.youtube.com/watch?v=r3QScnCGtgM" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+Part5 Folder Contents:
+
+```shell
+N2USD-Algorithmic-Stablecoin-Governance-Contract-Option2.sol
+```
+
