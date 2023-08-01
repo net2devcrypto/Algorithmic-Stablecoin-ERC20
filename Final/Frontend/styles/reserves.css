@@ -1,0 +1,51 @@
+.reservesbackground {
+    background-color: #0a090b;
+}
+
+.reserveshero {
+    background-color: #0a090b;
+    font-family: 'SF Pro Display';
+    --bs-gutter-x: 2.5rem;
+    --bs-gutter-y: 0;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1300px;
+}
+
+.reservesstats {
+    background-color: #15151550;
+    font-family: 'SF Pro Display';
+}
+
+.reservesvalues {
+    font-family: 'SF Pro Display';
+    text-shadow: 0px 0.5px 1px #fff;
+    font-size: xx-large;
+    margin-top: 0%;
+    animation: fadeIn 5s; 
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+.navstyle {
+    background-color: rgb(27, 32, 48);
+    border-style: 'bottom';
+}
+
+.navheader {
+    background-color: rgb(27, 32, 48);
+    border-top-style: solid;
+    border-width:thin;
+    border-color: #4f4c4c
+}
+
+
+.chart{
+    display: flex;
+    flex-direction: row;
+}
