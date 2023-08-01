@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/n2usd-logo.png" width="200" height="80">
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/stablechart.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/stablechart.png" width="600" height="500">
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
@@ -129,4 +129,4 @@ cd frontend
 npm run dev
 ```
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/stablechart.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/stablechart.png" width="500" height="400">
