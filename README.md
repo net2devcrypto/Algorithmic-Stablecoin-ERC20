@@ -98,7 +98,7 @@ npm i
 
 <h4>Step 2</h4>
 
-In the "config.js" on both the backend and frontend, you can either use the already configured test smart contract addresses on the config or add your own contract addresses. Make sure you update the RPC address as well (if needed).
+In the "config.js" on frontend and "getprices.js" on the backend, you can either use the already configured test smart contract addresses or add your own contract addresses. Make sure you update the RPC address as well (if needed).
 
 ```shell
 const rsvcontract = '0xba1f546071d9d7E2388d420AC1091ce58F661Efc';
