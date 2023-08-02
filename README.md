@@ -72,7 +72,7 @@ N2USD-Algorithmic-Stablecoin-Governance-Contract-Option2.sol
 
 Click for video:
 
-<a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="https://www.youtube.com/watch?v=qL-MoAH6cDU" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 Final Folder Contents:
 
